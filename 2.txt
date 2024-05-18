@@ -1,0 +1,10 @@
+{
+    "Stud1": "Veremiyenko",
+    "Stud2": "Zikeieva",
+    "Stud3": "Parkhomchuk",
+    "Stud4": "Dovgopol",
+    "Stud5": "Kybish",
+    "Stud6": "Gaman",
+    "Stud7": "Soldatov",
+    "Stud8": "Biba"
+}
